@@ -1,0 +1,18 @@
+MAK Drum (180526)
+
+Made by T-Custom from Team ORBY
+
+Print with FDM printer, use PLA pilament.
+
+Fill : 35%
+
+Wall Thinkness : 1.2mm
+
+Layer height : 0.2mm
+
+Drive motor : 16ga 050 430rpm 6V
+
+Weapon motor : 2212 brushless
+
+Batt : 7.4V 880mAh Li-po 2S
+
