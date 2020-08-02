@@ -1,0 +1,27 @@
+1lb Combatrobot MAK VS
+Opensource 454
+
+Printing material : PLA
+Density : 35%
+Wall thickness : 1.6mm
+Drive motor : 16ga050-430RPM
+Weapon motor : 2212 1000kv
+Battery : 2s 7.4V Li-po 850 mAh
+Drive ESC : XYS-BL20A
+Weapon ESC : BLHeli 20A
+O-rings for tire : Front : P21, Rear : P33
+Weapon bar material : Hardox500 10mm
+Weapon bearing : 6700 (NSK)
+Front wheel bearing : MF63zz
+
+Please check the STEP file to assemble.
+You have to make the bar spinner with Hardox500. Also you can use the STL file(VS bar_print.STL) to print it.
+Add M4X10 Flat head screws for tips if you use the printed weapon. 
+
+
+Team ORBY 
+Cheog-Gyu, Hwang
+
+http://www.TeamORBY.com
+https://cafe.naver.com/letsmake
+https://www.facebook.com/TeamORBY/
